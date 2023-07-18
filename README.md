@@ -4,7 +4,7 @@
 Successfully did the following:
 - Personal Information
     - Name
-    - ge
+    - age
     - Sex or Gender
     - Address (UI only)
     - Contact Information (UI only)
